@@ -1,6 +1,6 @@
 # JX Low
 
-Hello, you've reached my **GitHub** front page. For my personal home page, visit [jxlow.com](jxlow.com)
+Hello, you've reached my **GitHub** front page. For my personal home page, visit [jxlow.com](https://jxlow.com)
 
 ## About Me
 
