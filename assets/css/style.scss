@@ -1,4 +1,21 @@
 ---
 ---
 
-@import 'jekyll-theme-cayman';
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body {
+    color: #777;
+    background-color: #eae7dc;
+    font-family: "Inter", sans-serif;
+}
+
+.main-content h1, 
+.main-content h2, 
+.main-content h3, 
+.main-content h4, 
+.main-content h5, 
+.main-content h6 {
+    color: #777
+}
+
