@@ -4,10 +4,15 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Inter&family=Nunito&display=swap');
 
+.page-header {
+    background-color: #777;
+    background-image: none;
+}
+
 body {
     color: #777;
     background-color: #eae7dc;
-    font-family: "Inter", sans-serif;
+    font-family: "Nunito", sans-serif;
 }
 
 .main-content h1, 
@@ -16,7 +21,8 @@ body {
 .main-content h4, 
 .main-content h5, 
 .main-content h6 {
-    color: #777
+    color: #777;
+    font-family: "Inter", sans-serif;
 }
 
 .main-content {
